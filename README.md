@@ -1,4 +1,4 @@
-Car Price Prediction 
+#Car Price Prediction 
 Collected data from Kaggle and this data is from cardekho.com
 
 There are many types of cars present in this data, our task is to first explore the given data with help of EDA techniques and visualizations by Python
