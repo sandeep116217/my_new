@@ -5,4 +5,3 @@ There are many types of cars present in this data, our task is to first explore 
 Data is not that big, so there is not necessary to use Neural Networks but for practicing ANN. I used Neural Networks.
 This a regression problem so you can use Linear Regression, XG Boost Regressor.
 
-Happy Coding!
